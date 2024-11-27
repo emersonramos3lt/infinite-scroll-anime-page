@@ -1,9 +1,12 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Description
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+This project is a fictional anime streaming page built using Next.js, leveraging its powerful server-side rendering and routing capabilities for an optimized user experience. The application features smooth animations created with Framer Motion, enhancing interactivity and visual appeal. Additionally, it implements an infinite scroll functionality, allowing seamless content browsing without interruptions. With its sleek design and dynamic features, this project aims to deliver a modern and immersive interface inspired by popular streaming platforms.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+# Main Features
+- Next.js
+- Framer Motion
+- Infinite Scroll
+- Responsive design
 
+# Screenshot
+![Screenshot](./screenshot/img1.PNG)
